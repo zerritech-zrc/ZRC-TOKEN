@@ -1,0 +1,16 @@
+{
+  "name": "Zerritech Token",
+  "symbol": "ZRC",
+  "decimals": 18,
+  "totalSupply": 500000000,
+  "contractAddress": "0x02D77fe909fAeC72dE488fBf603E915a706343eA",
+  "network": "Base",
+  "explorer": "https://basescan.org/token/0x02D77fe909fAeC72dE488fBf603E915a706343eA",
+  "logo": "logo.svg",
+  "links": [
+    {"name": "LinkedIn", "url": "https://www.linkedin.com/company/107114385"},
+    {"name": "Twitter", "url": "https://twitter.com/zrctoken"},
+    {"name": "Telegram", "url": "https://t.me/zerritech"}
+  ],
+  "tags": ["creator-economy", "defi", "utility"]
+}
