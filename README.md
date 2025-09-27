@@ -1,7 +1,7 @@
 # 🌐 Zerritech Token ($ZRC)
 
-Zerritech Token ($ZRC) adalah **utility token resmi ekosistem ZERRITECH** yang dibangun di **Base Network (Layer 2 Ethereum)**.  
-Token ini berfungsi sebagai alat pembayaran, rewards, dan akses ke fitur premium di **ZERRITECH Creator Hub**.
+**Zerritech Token ($ZRC)** is the official **utility token** of the **ZERRITECH ecosystem**, built on **Base Network (Ethereum Layer 2)**.  
+$ZRC serves as a payment medium, rewards mechanism, and premium access token within the **ZERRITECH Creator Hub**.
 
 ---
 
@@ -14,7 +14,7 @@ Token ini berfungsi sebagai alat pembayaran, rewards, dan akses ke fitur premium
 | **Decimals**     | 18                                                                   |
 | **Total Supply** | 500,000,000 ZRC                                                      |
 | **Contract**     | `0x02D77fe909fAeC72dE488fBf603E915a706343eA`                         |
-| **Network**      | Base (Layer 2 Ethereum)                                              |
+| **Network**      | Base (Ethereum Layer 2)                                              |
 | **Explorer**     | [View on BaseScan](https://basescan.org/token/0x02D77fe909fAeC72dE488fBf603E915a706343eA) |
 | **Status**       | Active                                                               |
 | **Website**      | [www.zerritech.com](https://www.zerritech.com)                       |
@@ -23,17 +23,17 @@ Token ini berfungsi sebagai alat pembayaran, rewards, dan akses ke fitur premium
 
 ## 🪙 Logo & Branding
 
-- [Logo (SVG)](./logo.svg) – Recommended 32×32 px for DApps, wallets, and explorers  
-- [Logo (PNG)](./logo.png) – 512×512 for CoinGecko / CMC / Exchange submissions  
+- [Logo (SVG)](./logo.svg) – Recommended **32×32 px** for DApps, wallets, and explorers  
+- [Logo (PNG)](./logo.png) – **512×512 px** for CoinGecko, CMC, and exchange submissions  
 
 ---
 
 ## 📂 Repository Structure
 
 - `README.md` → Project overview (this file)  
-- `contracts/` → Smart contract source code (verified)  
+- `contracts/` → Verified smart contract source code  
 - `faq.md` → Frequently Asked Questions  
-- `guide.md` → User guide (how to use $ZRC in ecosystem)  
+- `guide.md` → User guide (how to use $ZRC in the ecosystem)  
 - `info.json` → Metadata for explorers/integrations  
 - `logo.png` → Official token logo (PNG 512×512)  
 - `logo.svg` → Official token logo (SVG scalable)  
@@ -47,7 +47,7 @@ Token ini berfungsi sebagai alat pembayaran, rewards, dan akses ke fitur premium
 
 - [Whitepaper (PDF)](./whitepaper.pdf)  
 - [Roadmap](./roadmap.md)  
-- [Guide](./guide.md)  
+- [User Guide](./guide.md)  
 - [FAQ](./faq.md)  
 - [Token Info (JSON)](./zrc-token.json)  
 
@@ -67,9 +67,9 @@ Token ini berfungsi sebagai alat pembayaran, rewards, dan akses ke fitur premium
 
 ### Q4 2025
 - ✅ Contract verification on BaseScan  
-- ✅ Logo & token info update  
-- ✅ Mini whitepaper launch  
-- 🚀 Presale  
+- ✅ Token logo & metadata update  
+- ✅ Mini whitepaper release  
+- 🚀 Presale launch  
 
 ### Q1 2026
 - 🔗 Integrate $ZRC into ZERRITECH Creator Hub  
@@ -78,7 +78,7 @@ Token ini berfungsi sebagai alat pembayaran, rewards, dan akses ke fitur premium
 
 ### Q2 2026
 - 📊 Apply for CoinGecko & CoinMarketCap listing  
-- 🎁 Expand utility (tipping, rewards, creator perks)  
+- 🎁 Expand token utility (tipping, rewards, creator perks)  
 
 ### Q3–Q4 2026
 - 🗳️ Governance module development  
@@ -92,7 +92,7 @@ Token ini berfungsi sebagai alat pembayaran, rewards, dan akses ke fitur premium
 - **Chain ID:** 8453 (Base Mainnet)  
 - **Token Type:** ERC-20 compatible  
 - **Decimals:** 18  
-- **Compliance:** Compatible with EIP-20, JSON standard for token lists  
+- **Compliance:** EIP-20 & JSON token list standards  
 
 ### Example Integration (ERC-20 ABI Snippet)
 ```json
