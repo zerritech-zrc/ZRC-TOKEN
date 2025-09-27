@@ -1,35 +1,33 @@
 # 🌐 Zerritech Token ($ZRC)
 
-**Zerritech Token ($ZRC)** is the official **utility token** of the **ZERRITECH ecosystem**, built on **Base Network (Ethereum Layer 2)**.  
-$ZRC serves as a payment medium, rewards mechanism, and premium access token within the **ZERRITECH Creator Hub**.
+Zerritech Token ($ZRC) is the official utility token of the **ZERRITECH ecosystem**, built on the **Base Network (Ethereum Layer 2)**.  
+$ZRC serves as a **payment medium, rewards mechanism, and premium access token** within the ZERRITECH Creator Hub.
 
 ---
 
 ## 📊 Token Information
 
-| Field            | Value                                                                 |
-|------------------|----------------------------------------------------------------------|
-| **Name**         | Zerritech Token                                                      |
-| **Symbol**       | ZRC                                                                  |
-| **Decimals**     | 18                                                                   |
-| **Total Supply** | 500,000,000 ZRC                                                      |
-| **Contract**     | `0x02D77fe909fAeC72dE488fBf603E915a706343eA`                         |
-| **Network**      | Base (Ethereum Layer 2)                                              |
-| **Explorer**     | [View on BaseScan](https://basescan.org/token/0x02D77fe909fAeC72dE488fBf603E915a706343eA) |
-| **Status**       | Active                                                               |
-| **Website**      | [www.zerritech.com](https://www.zerritech.com)                       |
+| Field         | Value                                                                 |
+|---------------|----------------------------------------------------------------------|
+| **Name**      | Zerritech Token                                                      |
+| **Symbol**    | ZRC                                                                  |
+| **Decimals**  | 18                                                                   |
+| **Total Supply** | 500,000,000 ZRC                                                   |
+| **Contract**  | `0x02D77fe909fAeC72dE488fBf603E915a706343eA`                         |
+| **Network**   | Base (Ethereum Layer 2)                                              |
+| **Explorer**  | [View on BaseScan](https://basescan.org/token/0x02D77fe909fAeC72dE488fBf603E915a706343eA) |
+| **Status**    | Active                                                               |
+| **Website**   | [www.zerritech.com](https://www.zerritech.com)                       |
 
 ---
 
 ## 🪙 Logo & Branding
-
-- [Logo (SVG)](./logo.svg) – Recommended **32×32 px** for DApps, wallets, and explorers  
-- [Logo (PNG)](./logo.png) – **512×512 px** for CoinGecko, CMC, and exchange submissions  
+- **Logo (SVG)** – Recommended **32×32 px** for DApps, wallets, and explorers  
+- **Logo (PNG)** – **512×512 px** for CoinGecko, CMC, and exchange submissions  
 
 ---
 
 ## 📂 Repository Structure
-
 - `README.md` → Project overview (this file)  
 - `contracts/` → Verified smart contract source code  
 - `faq.md` → Frequently Asked Questions  
@@ -44,7 +42,6 @@ $ZRC serves as a payment medium, rewards mechanism, and premium access token wit
 ---
 
 ## 📑 Documentation
-
 - [Whitepaper (PDF)](./whitepaper.pdf)  
 - [Roadmap](./roadmap.md)  
 - [User Guide](./guide.md)  
@@ -54,9 +51,8 @@ $ZRC serves as a payment medium, rewards mechanism, and premium access token wit
 ---
 
 ## 🔗 Official Links
-
 - 🌐 Website: [www.zerritech.com](https://www.zerritech.com)  
-- 💼 LinkedIn: [Zerritech LLC](https://linkedin.com/company/zerritech)  
+- 💼 LinkedIn: [Zerritech LLC](https://www.linkedin.com/company/zerritech)  
 - 🐦 Twitter/X: [@zerritech](https://twitter.com/zerritech)  
 - 💬 Telegram: [Join Community](https://t.me/zerritech)  
 - 📖 Documentation: [guide.md](./guide.md)  
@@ -65,36 +61,35 @@ $ZRC serves as a payment medium, rewards mechanism, and premium access token wit
 
 ## 🗺️ Roadmap
 
-### Q4 2025
-- ✅ Contract verification on BaseScan  
-- ✅ Token logo & metadata update  
-- ✅ Mini whitepaper release  
-- 🚀 Presale launch  
+**Q4 2025**  
+✅ Contract verification on BaseScan  
+✅ Token logo & metadata update  
+✅ Mini whitepaper release  
+🚀 Presale launch  
 
-### Q1 2026
-- 🔗 Integrate $ZRC into ZERRITECH Creator Hub  
-- 🤝 First creator platform partnerships  
-- 💱 Initial DEX listings  
+**Q1 2026**  
+🔗 Integrate $ZRC into ZERRITECH Creator Hub  
+🤝 First creator platform partnerships  
+💱 Initial DEX listings  
 
-### Q2 2026
-- 📊 Apply for CoinGecko & CoinMarketCap listing  
-- 🎁 Expand token utility (tipping, rewards, creator perks)  
+**Q2 2026**  
+📊 Apply for CoinGecko & CoinMarketCap listing  
+🎁 Expand token utility (tipping, rewards, creator perks)  
 
-### Q3–Q4 2026
-- 🗳️ Governance module development  
-- 🌍 Strategic partnerships & ecosystem expansion  
+**Q3–Q4 2026**  
+🗳️ Governance module development  
+🌍 Strategic partnerships & ecosystem expansion  
 
 ---
 
 ## ⚙️ Technical Standards
+- **Contract Address**: `0x02D77fe909fAeC72dE488fBf603E915a706343eA`  
+- **Chain ID**: 8453 (Base Mainnet)  
+- **Token Type**: ERC-20 compatible  
+- **Decimals**: 18  
+- **Compliance**: EIP-20 & JSON token list standards  
 
-- **Contract Address:** `0x02D77fe909fAeC72dE488fBf603E915a706343eA`  
-- **Chain ID:** 8453 (Base Mainnet)  
-- **Token Type:** ERC-20 compatible  
-- **Decimals:** 18  
-- **Compliance:** EIP-20 & JSON token list standards  
-
-### Example Integration (ERC-20 ABI Snippet)
+**Example Integration (ERC-20 ABI Snippet):**
 ```json
 {
   "name": "Zerritech Token",
@@ -103,6 +98,7 @@ $ZRC serves as a payment medium, rewards mechanism, and premium access token wit
   "contractAddress": "0x02D77fe909fAeC72dE488fBf603E915a706343eA",
   "network": "Base"
 }
+
 
 📜 Legal Disclaimer
 
@@ -115,5 +111,7 @@ Nothing in this repository constitutes financial advice, investment solicitation
 Users and integrators must conduct their own due diligence before interacting with the token or related smart contracts.
 
 ZERRITECH LLC assumes no liability for misuse, trading risks, or third-party integrations.
+
+📄 License
 
 © 2025 ZERRITECH LLC | All Rights Reserved | 🌐 www.zerritech.com
