@@ -61,7 +61,7 @@ Utility token for the ZERRITECH ecosystem on the BASE Network. $ZRC enables paym
 
 **Q3–Q4 2026**  
 - Governance module development  
-- Strategic partnerships & ecosystem expansion  
+- Strategic partnerships & ecosystem expansion
 
 ---
 
