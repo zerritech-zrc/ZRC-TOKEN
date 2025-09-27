@@ -115,5 +115,4 @@ ZERRITECH LLC assumes no liability for misuse, trading risks, or third-party int
 
 ## 📄 License  
 
-© 2025 **ZERRITECH LLC** | All Rights Reserved  
-🌐 [www.zerritech.com](https://www.zerritech.com)  
+© 2025 **ZERRITECH LLC** | All Rights Reserved | 🌐 [www.zerritech.com](https://www.zerritech.com)  
