@@ -1,4 +1,4 @@
-# Zerritech Token ($ZRC) — Premium Listing Package
+# Zerritech Token ($ZRC)
 
 > Utility token for the ZERRITECH ecosystem on the BASE Network. $ZRC enables payments, rewards, and access to premium creator tools within the ZERRITECH Creator Hub.
 
