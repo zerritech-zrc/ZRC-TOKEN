@@ -103,3 +103,17 @@ $ZRC serves as a payment medium, rewards mechanism, and premium access token wit
   "contractAddress": "0x02D77fe909fAeC72dE488fBf603E915a706343eA",
   "network": "Base"
 }
+
+📜 Legal Disclaimer
+
+This repository and its contents are provided for informational purposes only.
+
+$ZRC is a utility token for the ZERRITECH ecosystem.
+
+Nothing in this repository constitutes financial advice, investment solicitation, or guarantees of future performance.
+
+Users and integrators must conduct their own due diligence before interacting with the token or related smart contracts.
+
+ZERRITECH LLC assumes no liability for misuse, trading risks, or third-party integrations.
+
+© 2025 ZERRITECH LLC | All Rights Reserved | 🌐 www.zerritech.com
