@@ -7,17 +7,18 @@ $ZRC serves as a **payment medium, rewards mechanism, and premium access token**
 
 ## 📊 Token Information
 
-| Field         | Value                                                                 |
-|---------------|----------------------------------------------------------------------|
-| **Name**      | Zerritech Token                                                      |
-| **Symbol**    | ZRC                                                                  |
-| **Decimals**  | 18                                                                   |
-| **Total Supply** | 500,000,000 ZRC                                                   |
-| **Contract**  | `0x02D77fe909fAeC72dE488fBf603E915a706343eA`                         |
-| **Network**   | Base (Ethereum Layer 2)                                              |
-| **Explorer**  | https://basescan.org/token/0x02D77fe909fAeC72dE488fBf603E915a706343eA#code |
-| **Status**    | Active                                                               |
-| **Website**   | [www.zerritech.com](https://www.zerritech.com)                       |
+| Field            | Value                                                                 |
+|------------------|----------------------------------------------------------------------|
+| **Name**         | Zerritech Token                                                      |
+| **Symbol**       | ZRC                                                                  |
+| **Decimals**     | 18                                                                   |
+| **Total Supply** | 500,000,000 ZRC                                                      |
+| **Contract**     | `0x02D77fe909fAeC72dE488fBf603E915a706343eA`                         |
+| **Network**      | Base (Ethereum Layer 2)                                              |
+| **Explorer**     | [![View on BaseScan](https://img.shields.io/badge/View%20on-BaseScan-blue)](https://basescan.org/token/0x02D77fe909fAeC72dE488fBf603E915a706343eA#code) |
+| **Status**       | Active                                                               |
+| **Website**      | [www.zerritech.com](https://www.zerritech.com)                       |
+           |
 
 ---
 
