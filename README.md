@@ -29,7 +29,7 @@ Utility token for the ZERRITECH ecosystem on the BASE Network. $ZRC enables paym
 - [Roadmap](roadmap.md) – Timeline for development, listing, and ecosystem growth.  
 - [Guide](guide.md) – How to use $ZRC within ZERRITECH platform.  
 - [FAQ](faq.md) – Frequently asked questions about the token.  
-- [Token Info (JSON)](info.json) – Standardized token information for integrations.  
+- [Token Info (JSON)](info.json) – Standardized token information for integrations.
 
 ---
 
