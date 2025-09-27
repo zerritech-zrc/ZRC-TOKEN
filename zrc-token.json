@@ -1,0 +1,22 @@
+{
+"name": "Zerritech Token",
+"symbol": "ZRC",
+"decimals": 18,
+"description": "Utility token for the ZERRITECH ecosystem on the Base network. Used for payments, rewards, and access to premium creator tools.",
+"website": "https://www.zerritech.com",
+"explorer": "https://basescan.org/token/0x02D77fe909fAeC72dE488fBf603E915a706343eA",
+"socials": {
+"linkedin": "https://www.linkedin.com/company/zerritech-llc/",
+"twitter": "https://twitter.com/zerritech",
+"telegram": "https://t.me/zerritech",
+"github": "https://github.com/zerritech"
+},
+"logo_uri": "https://raw.githubusercontent.com/zerritech/<repo>/main/logo.svg",
+"chain": "base",
+"contract_address": "0x02D77fe909fAeC72dE488fBf603E915a706343eA",
+"status": "active",
+"verification": {
+"basescan_verified": true,
+"verification_date": "2025-10-01"
+}
+}
