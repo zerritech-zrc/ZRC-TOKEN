@@ -23,22 +23,22 @@ $ZRC serves as a **payment medium, rewards mechanism, and premium access token**
 ---
 
 ## 🪙 Logo & Branding
-- **Logo (SVG)** – Recommended **32×32 px** for DApps, wallets, and explorers  
-- **Logo (PNG)** – **512×512 px** for CoinGecko, CMC, and exchange submissions  
+- **Logo (SVG)** 
+- **Logo (PNG)**   
 
 ---
 
 ## 📂 Repository Structure
-- `README.md` → Project overview (this file)  
-- `contracts/` → Verified smart contract source code  
-- `faq.md` → Frequently Asked Questions  
-- `guide.md` → User guide (how to use $ZRC in the ecosystem)  
-- `info.json` → Metadata for explorers/integrations  
-- `logo.png` → Official token logo (PNG 512×512)  
-- `logo.svg` → Official token logo (SVG scalable)  
-- `roadmap.md` → Detailed roadmap  
-- `whitepaper.pdf` → Full whitepaper (utility, tokenomics, vision)  
-- `zrc-token.json` → Token info in standardized JSON schema  
+- `README.md`  
+- `contracts/`  
+- `faq.md` 
+- `guide.md`  
+- `info.json`   
+- `logo.png` 
+- `logo.svg`  
+- `roadmap.md`   
+- `whitepaper.pdf`  
+- `zrc-token.json`   
 
 ---
 
