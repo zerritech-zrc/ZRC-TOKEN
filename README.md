@@ -53,8 +53,8 @@ $ZRC serves as a **payment medium, rewards mechanism, and premium access token**
 ## 🔗 Official Links
 - 🌐 Website: [www.zerritech.com](https://www.zerritech.com)  
 - 💼 LinkedIn: [Zerritech LLC](https://www.linkedin.com/company/zerritech)  
-- 🐦 Twitter/X: [@zerritech](https://twitter.com/zerritech)  
-- 💬 Telegram: [Join Community](https://t.me/zerritech)  
+- 🐦 Twitter/X: [@zerritech](https://twitter.com/zrctoken?s=21)  
+- 💬 Telegram: [Join Community](https://t.me/zrctoken)  
 - 📖 Documentation: [guide.md](./guide.md)
 - 💬 Discord: [Join ZRC Token Discord](https://discord.gg/qdacgfWz)
 
