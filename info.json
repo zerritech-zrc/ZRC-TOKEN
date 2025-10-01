@@ -9,8 +9,8 @@
   "logo": "logo.svg",
   "links": [
     {"name": "LinkedIn", "url": "https://www.linkedin.com/company/107114385"},
-    {"name": "Twitter", "url": "https://twitter.com/zrctoken"},
-    {"name": "Telegram", "url": "https://t.me/zerritech"}
+    {"name": "Twitter", "url": "https://twitter.com/zrctoken?s=21"},
+    {"name": "Telegram", "url": "https://t.me/zrctoken"}
   ],
   "tags": ["creator-economy", "defi", "utility"]
 }
