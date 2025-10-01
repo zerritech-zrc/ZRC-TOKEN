@@ -18,7 +18,6 @@ $ZRC serves as a **payment medium, rewards mechanism, and premium access token**
 | **Explorer**     | [![View on BaseScan](https://img.shields.io/badge/View%20on-BaseScan-blue)](https://basescan.org/token/0x02D77fe909fAeC72dE488fBf603E915a706343eA#code) |
 | **Status**       | Active                                                               |
 | **Website**      | [www.zerritech.com](https://www.zerritech.com)                       |
-           |
 
 ---
 
